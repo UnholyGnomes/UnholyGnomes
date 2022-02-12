@@ -14,6 +14,8 @@
 <code><img height="20" alt="Python" src="https://user-images.githubusercontent.com/88017200/153724650-9cac5de5-2bb8-4469-bf56-50f25bdc6a6b.png"></code>
 <code><img height="20" alt="SQL" src="https://user-images.githubusercontent.com/88017200/153725205-5fb990ae-14b4-423f-bd90-135218cd6487.png"></code>
 <code><img height="20" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="Git" src="https://user-images.githubusercontent.com/88017200/153730026-076a178d-5d14-4467-90a4-4220dc592f05.png"></code>
+
 
 ## Langauges I'm learning actively:
 <code><img height="20" alt="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
