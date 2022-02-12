@@ -1,7 +1,7 @@
 <!-- This is commented out. -->
-<h2 align="center">UnholyGnomes</h2>
+<h1 align="center">UnholyGnomes</h1>
 
-<h3>My Personal Accounts:</h3>
+## My Personal Accounts:
 <p align="left">
 <a href="https://discord.com/users/158847100786835456" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </a>
@@ -28,7 +28,7 @@
 <code><img height="20" alt="Sublime Text" src="https://user-images.githubusercontent.com/88017200/153727025-ddd0f4af-0376-4aec-b94f-4896b646ed7d.png"></code>
 </br>
 
-<h3 align="left">GitHub Stats:</h3>
+## GitHub Stats:
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=unholygnomes&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unholygnomes&layout=compact&theme=dark&hide_border=true" />
