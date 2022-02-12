@@ -9,7 +9,7 @@
 <!-- <a href="https://github.com/unholygnomes" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a> -->
 </p>
 
-## Langauges I'm comfortable with:
+## Langauges / Tools I'm comfortable with:
 <!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
 <code><img height="20" alt="Python" src="https://user-images.githubusercontent.com/88017200/153724650-9cac5de5-2bb8-4469-bf56-50f25bdc6a6b.png"></code>
 <code><img height="20" alt="SQL" src="https://user-images.githubusercontent.com/88017200/153725205-5fb990ae-14b4-423f-bd90-135218cd6487.png"></code>
@@ -17,12 +17,13 @@
 <code><img height="20" alt="Git" src="https://user-images.githubusercontent.com/88017200/153730026-076a178d-5d14-4467-90a4-4220dc592f05.png"></code>
 
 
-## Langauges I'm learning actively:
+## Langauges / Tools I'm learning actively:
 <code><img height="20" alt="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="Java" src="https://user-images.githubusercontent.com/88017200/153724621-4665e451-1dbb-4b5b-950b-e46d055dd5f7.jpg"></code>
 <code><img height="20" alt="C#" src="https://user-images.githubusercontent.com/88017200/153725179-8d3c887d-c005-4c5e-8bd9-b1d653f0e5e7.png"></code>
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" alt="Docker" src="https://user-images.githubusercontent.com/88017200/153732664-14e90e82-6811-41bb-9545-851d109555fc.png"></code>
 
 ## IDEs I Prefer:
 <code><img height="20" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
