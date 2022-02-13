@@ -16,6 +16,7 @@
 
 
 ## Langauges / Tools I'm learning actively:
+<code><img height="20" alt="R" src="https://user-images.githubusercontent.com/88017200/153733768-75bacd12-3478-4014-9ab8-efb34dd1e853.png"></code>
 <code><img height="20" alt="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="Java" src="https://user-images.githubusercontent.com/88017200/153724621-4665e451-1dbb-4b5b-950b-e46d055dd5f7.jpg"></code>
