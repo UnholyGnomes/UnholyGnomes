@@ -6,6 +6,8 @@
 <a href="https://discord.com/users/158847100786835456" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </a>
 <a href="https://instagram.com/unholygnomes" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+</a>
+<a href="https://www.youtube.com/channel/UCmiSAGKfXQgBI7aI44PJfmw" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-DC3000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ## Langauges / Tools I'm comfortable with:
