@@ -3,6 +3,8 @@
 
 ## My Personal Accounts:
 <p align="left">
+<a href="https://www.twitch.tv/unholygnomes" target"blank_"><img src="https://img.shields.io/badge/Twitch-6441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white"></a>
+</a>
 <a href="https://discord.com/users/158847100786835456" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </a>
 <a href="https://www.linkedin.com/in/zachary-glogowski-408762186/" target"blank_"><img src="https://img.shields.io/badge/Linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
