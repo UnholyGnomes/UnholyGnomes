@@ -24,10 +24,12 @@
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="Docker" src="https://user-images.githubusercontent.com/88017200/153732664-14e90e82-6811-41bb-9545-851d109555fc.png"></code>
 
-## IDEs I Prefer:
+## IDEs / Code Editors I Prefer:
 <code><img height="20" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" alt="VS Studio" src="https://user-images.githubusercontent.com/88017200/153733821-ccce818f-2258-4bd5-bfc5-4fdfed5e71c9.png"></code>
 <code><img height="20" alt="Jupyter Notebooks" src="https://user-images.githubusercontent.com/88017200/153725858-04338fb8-87a1-40ef-af5b-0f4223ffe593.png"></code>
 <code><img height="20" alt="Sublime Text" src="https://user-images.githubusercontent.com/88017200/153727025-ddd0f4af-0376-4aec-b94f-4896b646ed7d.png"></code>
+
 </br>
 
 ## GitHub Stats:
