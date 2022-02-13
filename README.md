@@ -6,11 +6,9 @@
 <a href="https://discord.com/users/158847100786835456" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </a>
 <a href="https://instagram.com/unholygnomes" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<!-- <a href="https://github.com/unholygnomes" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a> -->
 </p>
 
 ## Langauges / Tools I'm comfortable with:
-<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
 <code><img height="20" alt="Python" src="https://user-images.githubusercontent.com/88017200/153724650-9cac5de5-2bb8-4469-bf56-50f25bdc6a6b.png"></code>
 <code><img height="20" alt="SQL" src="https://user-images.githubusercontent.com/88017200/153725205-5fb990ae-14b4-423f-bd90-135218cd6487.png"></code>
 <code><img height="20" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
