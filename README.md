@@ -33,7 +33,7 @@
 <code><img height="20" alt="C#" src="https://user-images.githubusercontent.com/88017200/153725179-8d3c887d-c005-4c5e-8bd9-b1d653f0e5e7.png"></code>
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="Docker" src="https://user-images.githubusercontent.com/88017200/153732664-14e90e82-6811-41bb-9545-851d109555fc.png"></code>
-<code><img height="20" alt="React JS" src="[https://user-images.githubusercontent.com/88017200/153732664-14e90e82-6811-41bb-9545-851d109555fc.png"></code>
+<code><img height="20" alt="React JS" src="[[https://user-images.githubusercontent.com/88017200/153732664-14e90e82-6811-41bb-9545-851d109555fc.png](https://www.bairesdev.com/wp-content/uploads//2022/06/Picture6-1.svg)"></code>
 
 ## IDEs / Code Editors I Prefer:
 <code><img height="20" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
