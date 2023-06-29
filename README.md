@@ -22,6 +22,7 @@
 <code><img height="20" alt="Python" src="https://user-images.githubusercontent.com/88017200/153724650-9cac5de5-2bb8-4469-bf56-50f25bdc6a6b.png"></code>
 <code><img height="20" alt="SQL" src="https://user-images.githubusercontent.com/88017200/153725205-5fb990ae-14b4-423f-bd90-135218cd6487.png"></code>
 <code><img height="20" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="Git" src="https://user-images.githubusercontent.com/88017200/153730026-076a178d-5d14-4467-90a4-4220dc592f05.png"></code>
 
 
@@ -31,7 +32,6 @@
 <code><img height="20" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="Java" src="https://user-images.githubusercontent.com/88017200/153724621-4665e451-1dbb-4b5b-950b-e46d055dd5f7.jpg"></code>
 <code><img height="20" alt="C#" src="https://user-images.githubusercontent.com/88017200/153725179-8d3c887d-c005-4c5e-8bd9-b1d653f0e5e7.png"></code>
-<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="Docker" src="https://user-images.githubusercontent.com/88017200/153732664-14e90e82-6811-41bb-9545-851d109555fc.png"></code>
 <code><img height="20" alt="React JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
 
