@@ -15,7 +15,6 @@
 <a href="https://www.youtube.com/channel/UCmiSAGKfXQgBI7aI44PJfmw" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-DC3000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/16534040/unholy-gnomes" target"blank_"><img src="https://img.shields.io/badge/stackoverflow%20-F67F51.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </a>
-x
 
 </p>
 
