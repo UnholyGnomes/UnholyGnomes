@@ -1,6 +1,7 @@
 <!-- This is commented out. -->
 <h1 align="center">UnholyGnomes</h1>
 
+<!---
 ## My Personal Accounts:
 <p align="left">
 <a href="https://www.twitch.tv/unholygnomes" target"blank_"><img src="https://img.shields.io/badge/Twitch-6441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white"></a>
@@ -13,7 +14,7 @@
 <a href="https://www.youtube.com/channel/UCmiSAGKfXQgBI7aI44PJfmw" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-DC3000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/16534040/unholy-gnomes" target"blank_"><img src="https://img.shields.io/badge/stackoverflow%20-F67F51.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </a>
-
+-->
 </p>
 
 ## Langauges / Tools I'm comfortable with:
